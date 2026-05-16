@@ -1,0 +1,6 @@
+if SHIELD_ELVN
+
+config ZMK_KEYBOARD_NAME
+    default "elvn"
+
+endif # SHIELD_ELVN
